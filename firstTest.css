@@ -1,0 +1,26 @@
+body{
+	background-color: black;
+}
+h1{
+	font-family: cursive;
+	font-size: 15px;
+	color: #F57900;
+}
+h2{
+	font-family: sans-serif;
+	font-size: 15px;
+	color: #F57900;
+}
+h3{
+	color: teal;
+}
+.big{
+	font-synthesis: style;
+	font-family:  Monaco;
+}
+.uppercase{
+	text-transform: uppercase;
+}
+.big.uppercase{
+	color: navy;
+}
